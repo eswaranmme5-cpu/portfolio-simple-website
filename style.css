@@ -166,4 +166,20 @@ body {
     color: black;
     border: none;
 
+
+}
+.section-one__contact:hover{
+    box-shadow:0 0 10px black,
+    0 0 20px orangered,
+    0 0 40px orange;
+}
+.card_one_tag:hover{
+    color: aliceblue;
+    box-shadow:0 0 10px orange,
+    0 0 20px orangered;
+}
+.contact-form__submit:hover{
+       color: aliceblue;
+    box-shadow:0 0 10px orange,
+    0 0 20px orangered;
 }
